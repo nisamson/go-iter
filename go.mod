@@ -1,4 +1,4 @@
-module github.com/nisamson/go-iter
+module github.com/nisamson/iter
 
 go 1.18
 
